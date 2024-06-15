@@ -1,1 +1,2 @@
 # Pick-2-Light
+Pick2Light is an is client server concept used in warehouse management. The idea is to direct the floor operator to the glowing light and pick the displayed amount of component from the bin. This help the industries to increase the efficiency, instead of paper base approach of sorting, ordering and picking components. By integrating the Pick 2 Light in every bin, good number of automation can be achieved. This project is concentrated on the implementation of the node (client) which interacts with the server whenever required.
